@@ -1,1 +1,1 @@
-web: gunicorn ranyou2021:app
+web gunicorn ranyou2021:app
